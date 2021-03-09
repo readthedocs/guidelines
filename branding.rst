@@ -21,6 +21,11 @@ Read the Docs logos and other trademarks are available for use under the
   hate speech, pornography, gambling or illegal activities
 * use our logos to, or in connection with, content that disparages us or sullies
   our reputation
+  
+Brand Name
+----------
+
+Our brand name is officially **Read the Docs**. If you want to use an acronym after defining the full brand name, you should use **RTD**.
 
 Logo Guidelines
 ---------------
