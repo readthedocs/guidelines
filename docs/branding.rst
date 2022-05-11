@@ -30,37 +30,37 @@ Our brand name is officially **Read the Docs**. If you want to use an acronym af
 Logo Guidelines
 ---------------
 
-.. image:: assets/logo-dark.png
+.. image:: ../assets/logo-dark.png
     :width: 200px
 
 :Use: Dark color logo for use on light colors
 :License: `CC-BY 4.0`
-:SVG: :download:`assets/logo-dark.svg`
-:PNG: :download:`assets/logo-dark.png`
+:SVG: :download:`../assets/logo-dark.svg`
+:PNG: :download:`../assets/logo-dark.png`
 
-.. image:: assets/logo-light.png
+.. image:: ../assets/logo-light.png
     :width: 200px
 
 :Use: Light color logo for use on dark colors
 :License: `CC-BY 4.0`
-:SVG: :download:`assets/logo-light.svg`
-:PNG: :download:`assets/logo-light.png`
+:SVG: :download:`../assets/logo-light.svg`
+:PNG: :download:`../assets/logo-light.png`
 
-.. image:: assets/logo-wordmark-dark.png
+.. image:: ../assets/logo-wordmark-dark.png
     :width: 400px
 
 :Use: Dark color logo and wordmark for use on light colors
 :License: `CC-BY 4.0`
-:SVG: :download:`assets/logo-wordmark-dark.svg`
-:PNG: :download:`assets/logo-wordmark-dark.png`
+:SVG: :download:`../assets/logo-wordmark-dark.svg`
+:PNG: :download:`../assets/logo-wordmark-dark.png`
 
-.. image:: assets/logo-wordmark-light.png
+.. image:: ../assets/logo-wordmark-light.png
     :width: 400px
 
 :Use: Light color logo and wordmark for use on dark colors
 :License: `CC-BY 4.0`
-:SVG: :download:`assets/logo-wordmark-light.svg`
-:PNG: :download:`assets/logo-wordmark-light.png`
+:SVG: :download:`../assets/logo-wordmark-light.svg`
+:PNG: :download:`../assets/logo-wordmark-light.png`
 
 License
 -------
