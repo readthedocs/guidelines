@@ -9,6 +9,8 @@ FINAL_PNG=$(patsubst %.svg,%.png,$(addprefix assets/,$(notdir $(SOURCE_SVG))))
 
 assets: $(FINAL_SVG) $(FINAL_PNG)
 
+plain: $(SOURCE_SVG)
+
 $(FINAL_SVG): assets/%.svg: src/assets/%.svg
 	$(SCOUR) $(SCOUR_OPTS) -i $? -o $@
 
@@ -18,3 +20,10 @@ ifndef INKSCAPE
 	exit 1
 endif
 	$(INKSCAPE) --export-filename=$@ $?
+
+$(SOURCE_SVG): src/assets/%.svg:
+ifndef INKSCAPE
+	@echo "You need Inkscape installed to build these files"
+	exit 1
+endif
+	$(INKSCAPE) --export-plain-svg --export-type=svg --export-filename=$@ $@
