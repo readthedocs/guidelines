@@ -1,7 +1,7 @@
 Branding Guidelines
 ===================
 
-Acceptable Use
+Acceptable use
 --------------
 
 Read the Docs logos and other trademarks are available for use under the
@@ -21,46 +21,62 @@ Read the Docs logos and other trademarks are available for use under the
   hate speech, pornography, gambling or illegal activities
 * use our logos to, or in connection with, content that disparages us or sullies
   our reputation
-  
-Brand Name
+
+Brand name
 ----------
 
 Our brand name is officially **Read the Docs**. If you want to use an acronym after defining the full brand name, you should use **RTD**.
 
-Logo Guidelines
----------------
+Logos
+-----
 
 .. image:: ../assets/logo-dark.png
     :width: 200px
 
 :Use: Dark color logo for use on light colors
 :License: `CC-BY 4.0`
-:SVG: :download:`../assets/logo-dark.svg`
-:PNG: :download:`../assets/logo-dark.png`
+:SVG: :download:`logo-dark.svg <../assets/logo-dark.svg>`
+:PNG: :download:`logo-dark.png <../assets/logo-dark.png>`
 
 .. image:: ../assets/logo-light.png
     :width: 200px
 
 :Use: Light color logo for use on dark colors
 :License: `CC-BY 4.0`
-:SVG: :download:`../assets/logo-light.svg`
-:PNG: :download:`../assets/logo-light.png`
+:SVG: :download:`logo-light.svg <../assets/logo-light.svg>`
+:PNG: :download:`logo-light.png <../assets/logo-light.png>`
 
 .. image:: ../assets/logo-wordmark-dark.png
     :width: 400px
 
 :Use: Dark color logo and wordmark for use on light colors
 :License: `CC-BY 4.0`
-:SVG: :download:`../assets/logo-wordmark-dark.svg`
-:PNG: :download:`../assets/logo-wordmark-dark.png`
+:SVG: :download:`logo-wordmark-dark.svg <../assets/logo-wordmark-dark.svg>`
+:PNG: :download:`logo-wordmark-dark.png <../assets/logo-wordmark-dark.png>`
 
 .. image:: ../assets/logo-wordmark-light.png
     :width: 400px
 
 :Use: Light color logo and wordmark for use on dark colors
 :License: `CC-BY 4.0`
-:SVG: :download:`../assets/logo-wordmark-light.svg`
-:PNG: :download:`../assets/logo-wordmark-light.png`
+:SVG: :download:`logo-wordmark-light.svg <../assets/logo-wordmark-light.svg>`
+:PNG: :download:`logo-wordmark-light.png <../assets/logo-wordmark-light.png>`
+
+.. image:: ../assets/logo-wordmark-vertical-dark.png
+    :width: 400px
+
+:Use: Dark color vertical logo and wordmark for use on light colors
+:License: `CC-BY 4.0`
+:SVG: :download:`logo-wordmark-dark.svg <../assets/logo-wordmark-dark.svg>`
+:PNG: :download:`logo-wordmark-dark.png <../assets/logo-wordmark-dark.png>`
+
+.. image:: ../assets/logo-wordmark-vertical-light.png
+    :width: 400px
+
+:Use: Light color vertical logo and wordmark for use on dark colors
+:License: `CC-BY 4.0`
+:SVG: :download:`logo-wordmark-light.svg <../assets/logo-wordmark-light.svg>`
+:PNG: :download:`logo-wordmark-light.png <../assets/logo-wordmark-light.png>`
 
 License
 -------
