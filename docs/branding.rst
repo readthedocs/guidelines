@@ -67,32 +67,32 @@ Logos
 
 :Use: Dark color vertical logo and wordmark for use on light colors
 :License: `CC-BY 4.0`
-:SVG: :download:`logo-wordmark-dark.svg <../assets/logo-wordmark-dark.svg>`
-:PNG: :download:`logo-wordmark-dark.png <../assets/logo-wordmark-dark.png>`
+:SVG: :download:`logo-wordmark-dark.svg <../assets/logo-wordmark-vertical-dark.svg>`
+:PNG: :download:`logo-wordmark-dark.png <../assets/logo-wordmark-vertical-dark.png>`
 
 .. image:: ../assets/logo-wordmark-vertical-light.png
     :width: 400px
 
 :Use: Light color vertical logo and wordmark for use on dark colors
 :License: `CC-BY 4.0`
-:SVG: :download:`logo-wordmark-light.svg <../assets/logo-wordmark-light.svg>`
-:PNG: :download:`logo-wordmark-light.png <../assets/logo-wordmark-light.png>`
+:SVG: :download:`logo-wordmark-light.svg <../assets/logo-wordmark-vertical-light.svg>`
+:PNG: :download:`logo-wordmark-light.png <../assets/logo-wordmark-vertical-light.png>`
 
 .. image:: ../assets/logo-wordmark-vertical-compact-dark.png
     :width: 400px
 
 :Use: Dark color vertically compact logo and wordmark for use on light colors
 :License: `CC-BY 4.0`
-:SVG: :download:`logo-wordmark-dark.svg <../assets/logo-wordmark-dark.svg>`
-:PNG: :download:`logo-wordmark-dark.png <../assets/logo-wordmark-dark.png>`
+:SVG: :download:`logo-wordmark-dark.svg <../assets/logo-wordmark-vertical-compact-dark.svg>`
+:PNG: :download:`logo-wordmark-dark.png <../assets/logo-wordmark-vertical-compact-dark.png>`
 
 .. image:: ../assets/logo-wordmark-vertical-compact-light.png
     :width: 400px
 
 :Use: Light color vertically compact logo and wordmark for use on dark colors
 :License: `CC-BY 4.0`
-:SVG: :download:`logo-wordmark-light.svg <../assets/logo-wordmark-light.svg>`
-:PNG: :download:`logo-wordmark-light.png <../assets/logo-wordmark-light.png>`
+:SVG: :download:`logo-wordmark-light.svg <../assets/logo-wordmark-vertical-compact-light.svg>`
+:PNG: :download:`logo-wordmark-light.png <../assets/logo-wordmark-vertical-compact-light.png>`
 
 License
 -------
